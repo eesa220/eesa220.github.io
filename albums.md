@@ -1,4 +1,4 @@
-#Albums 
+# Albums 
 
 Here are some of my current favorite albums at the moment in no particular order.
 
