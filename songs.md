@@ -2,7 +2,7 @@
 
 These are my top 10 songs right now from most favorite to least favorite with my favorite lyric of the song. 
 
-1. DR. WHOEVER by **Amine** 
+1. DR. WHOEVER by **Aminé** 
 >"These intros ain't meant to be bangers  
 >They meant for you and me so we'll never end up as strangers  
 >Will Ferrell's ass can't even handle the weather  
