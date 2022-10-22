@@ -1,4 +1,4 @@
-# Music Streaming Services Available
+# Music Streaming Services
 
 ## With a plethora of music now available at our disposal, here are a few of the top music streaming services available.
 
