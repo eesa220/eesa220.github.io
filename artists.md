@@ -20,4 +20,4 @@ These are my favorite artists at the moment with their correspongs Instagram pag
 ![Tkay Maidza](https://i1.sndcdn.com/avatars-etEhmwFBSwwVrpbo-otDQ1g-t500x500.jpg)  
 
 
-[**Next Up: III. Songs**](https://eesa220.github.io/songs)
+### [**Next Up: III. Songs**](https://eesa220.github.io/songs)
