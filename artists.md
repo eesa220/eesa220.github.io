@@ -21,4 +21,4 @@ These are my favorite artists at the moment with their correspongs Instagram pag
 
 
 ### [**Next Up: III. Albums**](https://eesa220.github.io/albums)  
-#### [**Page Backword: I. Home**](https://eesa220.github.io/)
+#### [**Page Back: I. Home**](https://eesa220.github.io/)
