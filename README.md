@@ -10,7 +10,9 @@ Welcome to my website! This website will illustrate some of the music I like to 
 ### [IV. Songs](https://eesa220.github.io/songs)  
 ### [V. Additional Info](https://eesa220.github.io/additional)    
 
-### [**Next Up: II. Songs**](https://eesa220.github.io/songs)
+---
+
+#### [**Next Up: II. Songs**](https://eesa220.github.io/songs)
 
   
   
