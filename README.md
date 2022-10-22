@@ -12,7 +12,7 @@ Welcome to my website! This website will illustrate some of the music I like to 
 
 ---
 
-#### [**Next Up: II. Songs**](https://eesa220.github.io/songs)
+#### [**Next Up: II. Artists**](https://eesa220.github.io/artists)
 
   
   
