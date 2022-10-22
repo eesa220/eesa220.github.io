@@ -1,4 +1,4 @@
-# II. Some of My Current Favorite Artists  
+# Some of My Current Favorite Artists  
 
 These are my favorite artists at the moment with their correspongs Instagram pages. 
 
