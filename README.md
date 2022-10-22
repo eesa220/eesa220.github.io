@@ -8,7 +8,9 @@ Welcome to my website! This website will illustrate some of the music I like to 
 ### [II. Artists](https://eesa220.github.io/artists)  
 ### [III. Albums](https://eesa220.github.io/albums)  
 ### [IV. Songs](https://eesa220.github.io/songs)  
-### [V. Additional Info](https://eesa220.github.io/additional)  
+### [V. Additional Info](https://eesa220.github.io/additional)    
+
+### [**Next Up: II. Songs**](https://eesa220.github.io/songs)
 
   
   
