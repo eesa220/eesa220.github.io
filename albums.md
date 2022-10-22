@@ -20,6 +20,7 @@ Here are some of my current favorite albums at the moment in no particular order
 ## CRASH by Charli XCX
 ![CRASH](https://fakazakamp.com/wp-content/uploads/2022/03/Charli-XCX-Crash-Album-Review.jpg)
 
+---
 
 ### [Next up: IV. Songs](https://eesa220.github.io/songs)
 #### [Page Back: II. Artists](https://eesa220.github.io/artists)
