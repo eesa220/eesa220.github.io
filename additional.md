@@ -16,8 +16,9 @@ Although Shazam isn't a streaming service, it's an extremely useful site for tho
 ### [Youtube Music](https://www.youtube.com/youtube-music)
 ![Youtube](https://th.bing.com/th/id/OIP.ZviG6ANVXk5Zegz4f0s8rQHaEk?w=244&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
 
+---
 
-## Featured Block of Code
+# Featured Block of Code
 
 **This block of code will be able to count the number of words in a string.**  
 
@@ -30,5 +31,6 @@ function countWords(str) {
 
 console.log(countWords(''));
 ```
+---
 
 #### [**Page Back: IV. Songs**](https://eesa220.github.io/songs)
