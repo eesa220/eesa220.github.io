@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+    color:aliceblue;
+}
+
+html {
+    background-color: rgb(0, 0, 0);
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul {
+    margin: 0;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline-block;
+    padding: 1em;
+    color: white;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    background-color: rgba(60,179,113,.3);
+}
+
+.main-nav {
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+}
+
+.main-nav li {
+    padding: 0 2%;
+
+}
+.main-header {
+  background-color: rgb(59, 107, 59); 
+  background-image: url("../concertheader.jpg"); 
+  background-blend-mode: multiply; 
+  background-size: cover;
+  padding-bottom: 25px;
+}
+
+.home-title {
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+}
+
+.content-section {
+    margin: 1em;
+}
+
+.container {
+    
+    padding: 0 1.5em;
+}
+
+.section-header {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.quote {
+    background-color:rgb(13, 66, 37);
+    margin-right: 800px;
+    padding-left: 1em;
+}
+
+.blockcode {
+    color:darkgreen
+}
+
+table {
+width: 400px;
+font-size: 1.5em;
+}
+
+table, th, td {
+    border: 1px solid white;
+}
